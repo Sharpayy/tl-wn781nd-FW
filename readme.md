@@ -1,3 +1,5 @@
+Loads driver with legacy interrupts, don't use.
+=================
 Screamer PCIe Squirrel:
 =================
 This project contains software and HDL code for the [Screamer PCIe Squirrel PCIe board](https://shop.lambdaconcept.com).
